@@ -20,6 +20,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 gem "feedjira"
+gem "whenever"
+gem "devise"
 gem "twitter-bootstrap-rails"
 gem "rspec-rails"
 gem "factory_girl_rails"
