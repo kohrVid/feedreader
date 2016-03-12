@@ -21,6 +21,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem "feedjira"
 gem "whenever"
+gem "redis"
+gem "hiredis"
 gem "devise"
 gem "twitter-bootstrap-rails"
 gem "rspec-rails"
